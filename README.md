@@ -16,4 +16,4 @@ Enter values and get or print PDF output in desired size
 --------
 
 for any question call me
-https://www.linkedin.com/in/mohammad-afshar-dev/
+https://www.linkedin.com/in/mmd-af
